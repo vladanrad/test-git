@@ -1,1 +1,1 @@
-console.log('new js file')
+console.log('new js file je dodas')
