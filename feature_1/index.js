@@ -1,1 +1,2 @@
-console.log('Nova featura')
+console.log('Nova featura');
+// verzija 7
